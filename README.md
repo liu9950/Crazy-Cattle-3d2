@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crazy Cattle 3D Is Taking Over the Internet – Here’s Why You Should Try It (Free Link Inside!)  
 
 If you haven’t heard of *Crazy Cattle 3D* yet, you’re missing out on one of the most viral indie games of 2025! Developed by solo indie dev Anna (@4nn4t4t), this physics-based battle royale game has exploded (literally) across TikTok, gaming forums, and meme pages—and for good reason.  
@@ -14,3 +15,7 @@ You can jump into the chaos right now—no download needed! Play the browser ver
 The game is also available on platforms like [Taproad.io](https://taproad.io/crazy-cattle-3d) and [itch.io](https://itch.io).  
 
 **So, who’s tried it?** Drop your funniest *Crazy Cattle 3D* moments below! 🐑💥  
+=======
+# Crazy-Cattle-3d2
+If you haven’t heard of Crazy Cattle 3D yet, you’re missing out on one of the most viral indie games of 2025! Developed by solo indie dev Anna (@4nn4t4t), this physics-based battle royale game has exploded (literally) across TikTok, gaming forums, and meme pages—and for good reason.
+>>>>>>> 2392b9d1fabf36f277915b788087cb1125f25c24
